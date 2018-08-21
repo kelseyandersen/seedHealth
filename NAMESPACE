@@ -3,3 +3,5 @@
 export(SeasModdet)
 export(SeasModstoch)
 export(altrtruncnorm)
+export(mpc)
+export(Multstoch)
