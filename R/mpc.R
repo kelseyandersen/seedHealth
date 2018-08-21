@@ -25,7 +25,6 @@
 #' @export 
 #' @examples
 #' Multstoch()
-#' @export 
 
 # to do - GENERAL TESTING 
 # to do - check whether parameter list is correct
