@@ -4,12 +4,12 @@
 \alias{Multstoch}
 \title{Create a matrix with output from multiple simulations for a single parameter combination}
 \usage{
-Multstoch(pHSinit2 = 0.8, Kx2 = 100, betax2 = 0.02, wxtnormm2 = 0.8,
-  wxtnormsd2 = 0.3, hx2 = 1, mxtnormm2 = 1, mxtnormsd2 = 0.1,
-  axtnormm2 = 1, axtnormsd2 = 0.1, rx2 = 0.1, zxtnormm2 = 1,
-  zxtnormsd2 = 0.1, gx2 = 4, cx2 = 0.9, phix2 = 0, nseasons2 = 10,
-  nsim2 = 10, HPcut2 = 0.5, pHScut2 = 0.5, maY2 = 100, miY2 = 0,
-  thetax2 = 0.2, Ex2 = 0)
+Multstoch(pHSinit2 = 0.8, Kx2 = 100, betax2 = 0.02,
+  wxtnormm2 = 0.8, wxtnormsd2 = 0.3, hx2 = 1, mxtnormm2 = 1,
+  mxtnormsd2 = 0.1, axtnormm2 = 1, axtnormsd2 = 0.1, rx2 = 0.1,
+  zxtnormm2 = 1, zxtnormsd2 = 0.1, gx2 = 4, cx2 = 0.9, phix2 = 0,
+  nseasons2 = 10, nsim2 = 10, HPcut2 = 0.5, pHScut2 = 0.5,
+  maY2 = 100, miY2 = 0, thetax2 = 0.2, Ex2 = 0)
 }
 \arguments{
 \item{Kx}{total number of plants}

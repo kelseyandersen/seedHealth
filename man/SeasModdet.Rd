@@ -4,9 +4,10 @@
 \alias{SeasModdet}
 \title{Generate an output matrix for one simulation}
 \usage{
-SeasModdet(pHSinit = 0.8, Kx = 100, betax = 0.02, wx = 0.8, hx = 1,
-  mx = 1, ax = 1, rx = 0.1, zx = 0.9, gx = 4, cx = 0.9, phix = 0,
-  maY = 100, miY = 0, thetax = 0.2, nseasons = 10, Ex = 0)
+SeasModdet(pHSinit = 0.8, Kx = 100, betax = 0.02, wx = 0.8,
+  hx = 1, mx = 1, ax = 1, rx = 0.1, zx = 0.9, gx = 4,
+  cx = 0.9, phix = 0, maY = 100, miY = 0, thetax = 0.2,
+  nseasons = 10, Ex = 0)
 }
 \arguments{
 \item{Kx}{total number of plants}

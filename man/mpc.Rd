@@ -9,8 +9,8 @@ mpc(vpHSinit = c(0.2, 0.5, 0.8), vKx = 100, vbetax = c(0.02, 0.04),
   vmxtnormm = 1, vmxtnormsd = 0.1, vaxtnormm = c(1, 0.5),
   vaxtnormsd = c(0.3, 0.1), vrx = c(0.1, 0.3), vzxtnormm = c(1, 0.5),
   vzxtnormsd = c(0.3, 0.1), vgx = 4, vcx = 0.9, vphix = c(0, 0.5),
-  vnseasons = 10, vnsim = 1, vHPcut = 0.5, vpHScut = 0.5, vmaY = 100,
-  vmiY = 0, vthetax = c(-0.5, 0, 0.5), vEx = 0.02)
+  vnseasons = 10, vnsim = 1, vHPcut = 0.5, vpHScut = 0.5,
+  vmaY = 100, vmiY = 0, vthetax = c(-0.5, 0, 0.5), vEx = 0.02)
 }
 \arguments{
 \item{Kx}{total number of plants}
