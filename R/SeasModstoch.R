@@ -22,7 +22,7 @@
 #' @param phix proportion clean seed purchased
 #' @param nseasons number of seasons
 #' @keywords seed health
-#' @export 
+#' @export
 #' @examples
 #' sim1()
 #' sim1()
