@@ -53,7 +53,6 @@ Updated 2018-08-21
 }
 \examples{
 Multstoch()
-Multstoch()
 }
 \keyword{health}
 \keyword{seed}
